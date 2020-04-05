@@ -22,6 +22,6 @@
 
 int main()
 { 
-   printf ("Hello world");
+   printf ("Hello World");
    return 0;
 }
